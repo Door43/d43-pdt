@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pdt:home|Door43 (pdt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pdt|d43-pdt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pdt/archive/master.zip|d43-pdt.zip]]
+
+**Recent Changes**
+{{changes>ns = pdt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pdt|Ethnologue data]]
+
